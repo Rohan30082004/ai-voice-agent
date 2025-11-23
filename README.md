@@ -25,7 +25,3 @@ This system handles real-time voice calls, processes user responses, extracts st
 - **REST APIs** – webhook + data transfers
 
 ---
-
-
-```md
-![Voice Agent Workflow](./voice-agent-diagram.png)
